@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-21",
+ "packs": {
+  "AE": {
+   "name": "United Arab Emirates",
+   "count": 3015,
+   "bytes": 77269,
+   "updated": "2026-11-21"
+  },
+  "IN": {
+   "name": "India",
+   "count": 8715,
+   "bytes": 324544,
+   "updated": "2026-11-21"
+  },
+  "LK": {
+   "name": "Sri Lanka",
+   "count": 533,
+   "bytes": 19996,
+   "updated": "2026-11-21"
+  },
+  "MY": {
+   "name": "Malaysia",
+   "count": 6737,
+   "bytes": 244068,
+   "updated": "2026-11-21"
+  },
+  "SA": {
+   "name": "Saudi Arabia",
+   "count": 14137,
+   "bytes": 420072,
+   "updated": "2026-11-21"
+  }
+ }
+}
